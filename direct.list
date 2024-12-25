@@ -1,0 +1,9 @@
+# NAME: direct
+# AUTHOR: direct
+# UPDATED: 2024-12-25
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 1
+# IP-CIDR: 0
+# zoneedit without the use of a VPN
+DOMAIN-SUFFIX,zoneedit.com
+DOMAIN-KEYWORD,zoneedit

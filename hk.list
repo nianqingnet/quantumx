@@ -1,0 +1,10 @@
+# NAME: hk
+# AUTHOR: hk
+# UPDATED: 2024-12-25
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 1
+# IP-CIDR: 0
+
+# mytvsuper.com 目前仅支持香港和澳门地区
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-KEYWORD,mytvsuper
