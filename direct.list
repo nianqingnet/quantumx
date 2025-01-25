@@ -1,9 +1,13 @@
 # NAME: direct
 # AUTHOR: direct
-# UPDATED: 2024-12-25
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1
+# UPDATED: 2025-01-25
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 2
 # IP-CIDR: 0
+
+DOMAIN-SUFFIX,asuscomm.com
+DOMAIN-KEYWORD,asuscomm
+
 # zoneedit without the use of a VPN
 DOMAIN-SUFFIX,zoneedit.com
 DOMAIN-KEYWORD,zoneedit
