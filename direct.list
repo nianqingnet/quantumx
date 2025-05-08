@@ -8,6 +8,9 @@
 DOMAIN-SUFFIX,asuscomm.com
 DOMAIN-KEYWORD,asuscomm
 
+DOMAIN-SUFFIX,nianqing.net
+DOMAIN-KEYWORD,nianqing
+
 # zoneedit without the use of a VPN
 DOMAIN-SUFFIX,zoneedit.com
 DOMAIN-KEYWORD,zoneedit
