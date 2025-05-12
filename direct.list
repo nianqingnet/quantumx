@@ -11,6 +11,9 @@ DOMAIN-KEYWORD,asuscomm
 DOMAIN-SUFFIX,nianqing.net
 DOMAIN-KEYWORD,nianqing
 
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-KEYWORD,cloudflare
+
 # zoneedit without the use of a VPN
 DOMAIN-SUFFIX,zoneedit.com
 DOMAIN-KEYWORD,zoneedit
