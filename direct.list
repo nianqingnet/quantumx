@@ -1,8 +1,8 @@
 # NAME: direct
 # AUTHOR: direct
-# UPDATED: 2025-01-25
-# DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 2
+# UPDATED: 2026-01-27
+# DOMAIN-KEYWORD: 3
+# DOMAIN-SUFFIX: 3
 # IP-CIDR: 0
 
 DOMAIN-SUFFIX,asuscomm.com
@@ -10,6 +10,9 @@ DOMAIN-KEYWORD,asuscomm
 
 DOMAIN-SUFFIX,nianqing.net
 DOMAIN-KEYWORD,nianqing
+
+DOMAIN-SUFFIX,nqwb.net
+DOMAIN-KEYWORD,nqwb
 
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-KEYWORD,cloudflare
