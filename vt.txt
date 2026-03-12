@@ -1,0 +1,2 @@
+vless://f275e507-4424-40d2-bb40-95d76eaf25ed@8.39.125.77:443?encryption=none&security=tls&sni=was.nianqing.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=was.nianqing.net&path=%2Ff275e507#FR-Scaleway
+trojan://f275e507-4424-40d2-bb40-95d76eaf25ed@104.18.32.248:443?security=tls&sni=gmtom.wasmer.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gmtom.wasmer.app&path=%2Ff275e507#FR-Scaleway
