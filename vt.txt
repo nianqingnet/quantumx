@@ -23,5 +23,5 @@
 vless://26524cce-d514-4014-a426-365fb266a14d@198.41.223.105:443?encryption=none&security=tls&sni=snippet.fgfw.loc.cc&fp=random&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560#US%E7%BE%8E%E5%9B%BDCHATGPT
 vless://26524cce-d514-4014-a426-365fb266a14d@104.19.50.229:443?encryption=none&security=tls&sni=snippet.fgfw.loc.cc&fp=random&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD
 vless://0d4c8cbd-05d2-4cba-86e6-4f454b6a8a8c@188.244.122.109:8443?encryption=none&security=tls&sni=tcp321.nqwb.net&fp=random&insecure=0&allowInsecure=0&type=ws&host=tcp321.nqwb.net&path=%2Fproxyip%3Dkr.william.us.ci#DE%E5%BE%B7%E5%9B%BD
-vless://f275e507-4424-40d2-bb40-95d76eaf25ed@8.39.125.77:443?encryption=none&security=tls&sni=was.nianqing.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=was.nianqing.net&path=%2Ff275e507#KR-Scaleway
-trojan://f275e507-4424-40d2-bb40-95d76eaf25ed@104.18.32.248:443?security=tls&sni=gmtom.wasmer.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gmtom.wasmer.app&path=%2Ff275e507#KR-Scaleway
+vless://f275e507-4424-40d2-bb40-95d76eaf25ed@162.159.34.160:443?encryption=none&security=tls&sni=was.nianqing.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=was.nianqing.net&path=%2Ff275e507#KR-Scaleway
+trojan://f275e507-4424-40d2-bb40-95d76eaf25ed@162.159.34.160:443?security=tls&sni=gmtom.wasmer.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gmtom.wasmer.app&path=%2Ff275e507#KR-Scaleway
