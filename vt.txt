@@ -30,6 +30,7 @@ trojan://f275e507-4424-40d2-bb40-95d76eaf25ed@154.219.5.220:443?security=tls&sni
 
 # --- 反代服务器定义 ---
 ##在 解析地址端口 函数返回的数组中，如果你使用的是域名反代，请确保域名中包含 hk 字眼；如果是纯 IP，建议在 vtt.txt 的 PROXY 定义中手动带上备注，或者通过 PROXY:noHK 专门定义一个不含 HK 的 IP 池。
+##如果写了 PROXY:DEFAULT=new-proxy.com，会覆盖代码中的本地定义。
 PROXY:HK=hkip.nianqing.net
 #PROXY:US=us-node.com
 
