@@ -1,3 +1,4 @@
+# --- 订阅节点列表 ---
 #cf.090227.xyz#泛播
 
 8.39.125.77#US美国ChatGPTJP
@@ -26,3 +27,12 @@ vless://0d4c8cbd-05d2-4cba-86e6-4f454b6a8a8c@188.244.122.109:8443?encryption=non
 vless://f275e507-4424-40d2-bb40-95d76eaf25ed@154.219.5.220:443?encryption=none&security=tls&sni=was.nianqing.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=was.nianqing.net&path=%2Ff275e507#KR-Scaleway
 trojan://f275e507-4424-40d2-bb40-95d76eaf25ed@154.219.5.220:443?security=tls&sni=gmtom.wasmer.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gmtom.wasmer.app&path=%2Ff275e507#KR-Scaleway
 #154.219.5.220#KR韩国
+
+# --- 反代服务器定义 ---
+##在 解析地址端口 函数返回的数组中，如果你使用的是域名反代，请确保域名中包含 hk 字眼；如果是纯 IP，建议在 vtt.txt 的 PROXY 定义中手动带上备注，或者通过 PROXY:noHK 专门定义一个不含 HK 的 IP 池。
+PROXY:HK=hkip.nianqing.net
+#PROXY:US=us-node.com
+
+# --- 路由规则 ---
+RULE:HK=x.com,twitter.com,t.co
+RULE:noHK=openai.com,chatgpt.com,oaistatic.com,canvas.com
