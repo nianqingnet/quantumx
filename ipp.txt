@@ -31,3 +31,4 @@
 64.176.55.11#ChatGPTJP
 103.238.129.164#ChatGPTJP
 hkip.nianqing.net#HK香港
+45.207.35.77:37424#澳门MU
