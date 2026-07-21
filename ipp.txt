@@ -10,7 +10,7 @@
 104.18.32.248#US美国
 104.18.35.119#US美国
 104.234.50.53#US美国ChatGPTJP
-154.21.92.36:8443%US美国
+154.21.92.36:8443#US美国
 162.159.34.205#US美国
 162.159.35.216#US美国
 162.159.46.234:8443#US美国
@@ -31,6 +31,8 @@
 207.148.113.143#JP日本
 64.176.55.11#ChatGPTJP
 103.238.129.164#ChatGPTJP
-hkip.nianqing.net#HK香港
 45.207.35.77:37424#澳门MU
 43.168.16.112#HK香港
+
+hkip.nianqing.net#HK香港
+vless://f275e507-4424-40d2-bb40-95d76eaf25ed@154.219.5.220:443?encryption=none&security=tls&sni=was.nianqing.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=was.nianqing.net&path=%2Ff275e507#KR-Scaleway
