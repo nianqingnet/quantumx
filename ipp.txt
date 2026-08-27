@@ -35,6 +35,6 @@
 103.238.129.164#ChatGPTJP
 45.207.35.77:37424#澳门MU
 43.168.16.112#HK香港
-
+140.235.38.47#TW台湾
 hkip.nianqing.net#HK香港
 vless://f275e507-4424-40d2-bb40-95d76eaf25ed@154.219.5.220:443?encryption=none&security=tls&sni=was.nianqing.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=was.nianqing.net&path=%2Ff275e507#KR-Scaleway
