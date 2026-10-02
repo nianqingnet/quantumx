@@ -1,7 +1,9 @@
 #Sample UUID
-4e2e4f0d-26ae-4f5d-8051-1372ac49320c
 e65511be-0aea-4009-bcc4-0620e293efcc
+0d4c8cbd-05d2-4cba-86e6-4f454b6a8a8c
+4e2e4f0d-26ae-4f5d-8051-1372ac49320c
 
+####分隔开
 #domain
 trim.museok.de5.net
 ble.nianqing.net
