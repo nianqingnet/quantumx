@@ -1,22 +1,15 @@
 # NAME: direct
 # AUTHOR: direct
-# UPDATED: 2026-01-27
-# DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 3
-# IP-CIDR: 0
+# UPDATED: 2026-10-31
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
 
 DOMAIN-SUFFIX,asuscomm.com
-DOMAIN-KEYWORD,asuscomm
-
 DOMAIN-SUFFIX,nianqing.net
-DOMAIN-KEYWORD,nianqing
-
 DOMAIN-SUFFIX,nqwb.net
-DOMAIN-KEYWORD,nqwb
 
+# Cloudflare API（DDNS 用），只直连主站，其余 Cloudflare 域名交给 CloudFlare 分组
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-KEYWORD,cloudflare
 
 # zoneedit without the use of a VPN
 DOMAIN-SUFFIX,zoneedit.com
-DOMAIN-KEYWORD,zoneedit
