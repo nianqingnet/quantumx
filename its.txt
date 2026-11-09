@@ -1,6 +1,7 @@
 #Sample UUID
 a0ec1b2a-bbae-483a-9b13-dc8105e1e9e9
 0d4c8cbd-05d2-4cba-86e6-4f454b6a8a8c
+e1f3a2b0-b271-4c35-87c0-9563b10f8475
 4e2e4f0d-26ae-4f5d-8051-1372ac49320c
 
 ####分隔开
@@ -8,3 +9,4 @@ a0ec1b2a-bbae-483a-9b13-dc8105e1e9e9
 cfnew.museok.de5.net
 ape.nianqing.net
 tcp321.nqwb.net
+use.gdxuexi.dpdns.org
