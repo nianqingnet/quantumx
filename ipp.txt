@@ -47,6 +47,5 @@
 140.235.38.47#TW台湾
 151.242.189.137#TW台湾
 hkip.nianqing.net#HK香港
-vless://75b48453-19f9-4662-a1dd-93867eccc97d@xray-core-production-9dea.up.railway.app:443?encryption=none&security=tls&sni=xray-core-production-9dea.up.railway.app&type=ws&host=xray-core-production-9dea.up.railway.app&path=%2F76bf0d78bfde#Railway-US美国
-vless://0c89af83-965e-42e0-9315-ee108c6f2346@8443-agqvdrzdoxwtbtwz53iniy75gi.instabox.tech:443?encryption=none&security=tls&sni=8443-agqvdrzdoxwtbtwz53iniy75gi.instabox.tech&fp=chrome&type=ws&host=8443-agqvdrzdoxwtbtwz53iniy75gi.instabox.tech&path=%2Fvless#InstaBoxUS美国
-#vless://f275e507-4424-40d2-bb40-95d76eaf25ed@154.219.5.220:443?encryption=none&security=tls&sni=was.nianqing.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=was.nianqing.net&path=%2Ff275e507#KR-Scaleway
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@usip.nianqing.net:443?encryption=none&security=reality&sni=bg3.univesalsrv.com&fp=chrome&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&type=grpc&authority=&serviceName=home.v1.ApiService&mode=gun#USIran
+vless://75b48453-19f9-4662-a1dd-93867eccc97d@xray-core-production-9dea.up.railway.app:443?encryption=none&security=tls&sni=xray-core-production-9dea.up.railway.app&type=ws&host=xray-core-production-9dea.up.railway.app&path=%2F76bf0d78bfde#Railway-US
